@@ -1,1 +1,4 @@
-<h1>Jaqueline sua isenta</h1>
+function Home (){
+    return <h1>Jaqueline inseta.</h1>
+}
+export default Home;
